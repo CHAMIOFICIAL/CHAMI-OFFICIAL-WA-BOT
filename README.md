@@ -53,6 +53,4 @@
 
 
 ## Owner:
-* [`KING-CHAMI`](https://github.com/KINGCHAMIYA00)
-
-## Thanks To
+* [`CHAMI`](https://github.com/CHAMIOFICIAL)
