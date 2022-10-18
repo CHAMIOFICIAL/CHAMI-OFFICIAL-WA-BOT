@@ -1,7 +1,7 @@
 {
-  "name": "CHAMI-OFICIAL-WA-BOT",
+  "name": "CHAMI-OFFICIAL-WA-BOT",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/CHAMIOFICIAL/CHAMI-OFICIAL-WA-BOT",
+  "repository": "https://github.com/CHAMIOFICIAL/CHAMI-OFFICIAL-WA-BOT",
   "logo": "https://hdqwalls.com/download/1/anime-girl-3-3840x2160.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
