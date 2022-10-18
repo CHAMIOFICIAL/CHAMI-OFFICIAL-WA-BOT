@@ -1,21 +1,14 @@
-<img src="https://hdqwalls.com/download/1/anime-girl-3-3840x2160.jpg" alt="GIF" width="300" height="270"/>
-# 💫𝙺𝙸𝙽𝙶_𝙲𝙷𝙰𝙼𝙸ᵀᴹ-𝙼𝙳💫
+# 💫CHAMI-OFICIAL-WA-BOT💫
 
 
-    💫𝙺𝙸𝙽𝙶_𝙲𝙷𝙰𝙼𝙸ᵀᴹ-𝙼𝙳💫 V3...
+    💫CHAMI-OFICIAL-WA-BOT💫...
 
 
    
    
    
    
-   ```Thanks Fro using 💫𝙺𝙸𝙽𝙶_𝙲𝙷𝙰𝙼𝙸ᵀᴹ-𝙼𝙳💫```
-
-
-# Telegram music grroup <a href="https://t.me/GhostMusicGang"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram%20Group-lightgrey?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-
-# Support Group <a href="watsapp group link"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
+   ```Thanks Fro using 💫CHAMI-OFICIAL-WA-BOT💫```
 
  </a>
 
@@ -31,13 +24,14 @@
 
   <p align="center">
 
-<a href="#"><img title="CHAMIMD" src="https://img.shields.io/badge/King-chami-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="CHAMIMD" src="https://img.shields.io/badge/CHAMI-OFICIAL-WA-BOT
+-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
 </div>
 
-<p align="center">By KING CHAMI>| © | Reserved  </br> 
+<p align="center">By CHAMI>| © | Reserved  </br> 
  
 
 ***ඉස්සෙල්ලාම ඔයාලා FORK කරගෙන ඉන්න***
@@ -54,7 +48,7 @@
 
 
 ## Owner:
-* [`KING-CHAMI`](https://github.com/KINGCHAMIYA00)
+* [`CHAMI-OFICIAL-WA-BOT`](https://github.com/CHAMIOFICIA)
 
 ## Thanks To
 
