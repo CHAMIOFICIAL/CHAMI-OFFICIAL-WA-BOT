@@ -40,15 +40,15 @@
 
 ***ඊට පස්සේ QR CODE එක ගන්න.ඒකට පල්ලෙ තියෙන බටන් එක ඔබන්න***
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@CHAMIOFFICIAL/CHAMI-OFICIAL01)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@CHAMIOFFICIAL/CHAMI-OFFICIAL01?v=1)
 
 ***ඊට පස්සේ විඩියෝ එකේ තියෙන විදිහට ඇප් එක හදලා ඉවර වෙලා පල්ලෙ තියෙන බටන් එක ඔබන්න***
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CHAMIOFICIAL/CHAMI-OFICIAL-WA-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CHAMIOFICIAL/CHAMI-OFFICIAL-WA-BOT)
 
 
 ## Owner:
-* [`CHAMI-OFFICIAL-WA-BOT`](https://github.com/CHAMIOFFICIA)
+* [`CHAMI-OFFICIAL-WA-BOT`](https://github.com/CHAMIOFICIAL)
 
 ## Thanks To
 
