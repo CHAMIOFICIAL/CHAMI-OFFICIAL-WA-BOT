@@ -44,7 +44,7 @@
 
 ***ඊට පස්සේ විඩියෝ එකේ තියෙන විදිහට ඇප් එක හදලා ඉවර වෙලා පල්ලෙ තියෙන බටන් එක ඔබන්න***
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CHAMIOFICIAL/CHAMI-OFICIAL-WA-BOT)
 
 
 ## Owner:
