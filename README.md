@@ -13,11 +13,6 @@
 CHAMI-OFICIAL-WA-BOT💫```
 
 
-# Telegram music grroup <a href="https://t.me/GhostMusicGang"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram%20Group-lightgrey?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-
-# Support Group <a href="watsapp group link"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-
  </a>
 
 </p>
