@@ -35,22 +35,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['94742952930'] //ur owner number
-global.ownername = "SenuBoy" //ur owner name
-global.ytname = "YT: SenuBoy" //ur yt chanel name
-global.socialm = "GitHub: SenuBoy" //ur github or insta name
-global.location = "SriLanka, Kaluthara, Panadura" //ur location
+global.ownername = "CHAMI OFFICIAL" //ur owner name
+global.ytname = "YT: CHAMI OFFICIAL" //ur yt chanel name
+global.socialm = "GitHub: CHAMI OFFICIAL" //ur github or insta name
+global.location = "SriLanka, KAHAWATHTHA, KAHAWATHTHA" //ur location
 
 //bot bomdy 
 global.owner = ['94742952930']
 global.ownertag = '94742952930' //ur tag number
-global.botname = 'CHAMI-OFICIAL-WA-BOT' //ur bot name
-global.linkz = "https://github.com/SenuBoy/Queen-Melissa-Beta" //your theme url which will be displayed on whatsapp
-global.websitex = "https://github.com/SenuBoy/Queen-Melissa-Beta" //ur website to be displayed
-global.botscript = 'https://github.com/SenuBoy/Queen-Melissa-Beta' //script link
+global.botname = 'CHAMI-OFFICIAL-WA-BOT' //ur bot name
+global.linkz = "https://github.com/CHAMIOFICIAL/CHAMI-OFFICIAL-WA-BOT" //your theme url which will be displayed on whatsapp
+global.websitex = "https://github.com/CHAMIOFICIAL/CHAMI-OFFICIAL-WA-BOT" //ur website to be displayed
+global.botscript = 'https://github.com/CHAMIOFICIAL/CHAMI-OFFICIAL-WA-BOT' //script link
 global.reactmoji = "" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
-global.packname = "CHAMI-OFICIAL-WA-BOT" //ur sticker watermark packname
-global.author = "SenuBoy" //ur sticker watermark author
+global.packname = "CHAMI-OFFICIAL-WA-BOT" //ur sticker watermark packname
+global.author = "CHAMI-OFFICIAL" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
