@@ -3,7 +3,7 @@
 
     💫CHAMI-OFICIAL-WA-BOT💫...
 
-
+<img src="https://ibb.co/PZpdLsB" alt="GIF" width="300" height="270"/>
    
    
    
