@@ -1,5 +1,5 @@
 {
-  "name": "KING-CHAMI-V1 MD",
+  "name": "CHAMI-OFFICIAL-WA-BOT",
   "version": "4.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "xeon.js",
@@ -75,10 +75,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KINGCHAMIYA00/KING-CHAMI-V1.git"
+    "url": "git+https://github.com/CHAMIOFICIAL/CHAMI-OFFICIAL-WA-BOT.git"
   },
   "bugs": {
     "url": "https://github.com/DGXeon/CheemsBot-MD4/issues"
   },
-  "homepage": "https://github.com/KINGCHAMIYA00/KING-CHAMI-V1.git#readme"
+  "homepage": "https://github.com/CHAMIOFICIAL/CHAMI-OFFICIAL-WA-BOT.git#readme"
 }
