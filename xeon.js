@@ -3,10 +3,10 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 chami Bot Inc.king chami v1 
+//© 2022 chami Bot Inc.CHAMI-OFICIAL-WA-BOT 
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
-// owenr by chami
+// owenr by CHAMI-OFICIAL-WA-BOT
 //════════════════════════════//
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
