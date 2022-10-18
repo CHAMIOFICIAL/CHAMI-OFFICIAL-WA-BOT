@@ -1,0 +1,24 @@
+{
+  "name": "CHAMI-OFICIAL-WA-BOT",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/CHAMIOFICIAL/CHAMI-OFICIAL-WA-BOT",
+  "logo": "https://i.ibb.co/YD7PNws/Melissa-Kinrenka-full-2841338.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+} 
