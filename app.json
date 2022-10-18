@@ -2,7 +2,7 @@
   "name": "CHAMI-OFICIAL-WA-BOT",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/CHAMIOFICIAL/CHAMI-OFICIAL-WA-BOT",
-  "logo": "https://i.ibb.co/YD7PNws/Melissa-Kinrenka-full-2841338.jpg",
+  "logo": "https://ibb.co/PZpdLsB",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
