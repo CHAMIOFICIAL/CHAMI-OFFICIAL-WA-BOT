@@ -48,7 +48,7 @@
 
 
 ## Owner:
-* [`CHAMI-OFICIAL-WA-BOT`](https://github.com/CHAMIOFICIA)
+* [`CHAMI-OFFICIAL-WA-BOT`](https://github.com/CHAMIOFFICIA)
 
 ## Thanks To
 
