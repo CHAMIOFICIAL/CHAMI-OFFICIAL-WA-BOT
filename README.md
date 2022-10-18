@@ -1,14 +1,14 @@
-# 💫CHAMI-OFICIAL-WA-BOT💫
+# 💫CHAMI-OFFICIAL-WA-BOT💫
 
 
-    💫CHAMI-OFICIAL-WA-BOT💫...
+    💫CHAMI-OFFICIAL-WA-BOT💫...
 
 
    
    
    
    
-   ```Thanks Fro using 💫CHAMI-OFICIAL-WA-BOT💫```
+   ```Thanks Fro using 💫CHAMI-OFFICIAL-WA-BOT💫```
 
  </a>
 
